@@ -1,0 +1,23 @@
+{
+    "name": "is-pnp",
+    "version": "1.0.0",
+    "description": "detects whether Plug'n'Play is active or not",
+    "bin": "./bin.js",
+    "license": "MIT",
+    "engines": {
+        "node": ">=6"
+    },
+    "homepage": "https://github.com/arcanis/is-pnp",
+    "bugs": {
+        "url": "https://github.com/arcanis/is-pnp/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arcanis/is-pnp.git"
+    },
+    "keywords": [
+        "yarn",
+        "plugnplay",
+        "pnp"
+    ]
+}
